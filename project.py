@@ -5,6 +5,7 @@ import random
 pygame.init()
 
 # Устанавливаем размеры окна
+print(1)
 WIDTH, HEIGHT = 800, 600
 window = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Падающие объекты")
