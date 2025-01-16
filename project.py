@@ -4,6 +4,8 @@ import random
 # Инициаhgdgfcfcлизация Pygame
 pygame.init()
 
+
+
 # Устанавливаем размеры окна
 print(1)
 WIDTH, HEIGHT = 800, 600
