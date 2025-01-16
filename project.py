@@ -1,7 +1,7 @@
 import pygame
 import random
 
-# Инициализация Pygame
+# Инициаhgdgfcfcлизация Pygame
 pygame.init()
 
 # Устанавливаем размеры окна
